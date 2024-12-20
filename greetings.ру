@@ -3,8 +3,8 @@ username = "alex"
 title = "home_work"
 content = "download_new_code_program"
 status = "work"
-created_date = "10.11.2024"  # Для отображения только дня и месяца use - [:-5]
-issue_date = "10.12.2024"  # Для отображения только дня и месяца use - [:-5]
+created_date = "10.11.2024"
+issue_date = "10.12.2024"
 # Программа
 print("Имя пользователя:", username)
 print("Заголовок заметки:", title)
