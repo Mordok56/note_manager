@@ -2,8 +2,8 @@ note_name = input("Введите имя заметки:")
 note_content = input("Введите содержание заметки:")
 note_status = input("Введите статус заметки \
 (пример waiting, ready, in progress):")
-note_created_date = float(input("Введите дату создания заметки - дд.мм:"))
-note_change_date = float(input("Введите дату изменения заметки - дд.мм:"))
+note_created_date = input("Введите дату создания заметки - дд.мм:")
+note_change_date = input("Введите дату изменения заметки - дд.мм:")
 header_one = input("Введите название 1 заголовка заметки: ")
 header_two = input("Введите название 2 заголовка заметки: ")
 note_header = [header_one, header_two]
